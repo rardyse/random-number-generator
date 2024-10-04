@@ -1,7 +1,7 @@
 #random number generator w/ 2 different number hugh and low and choose between them
 import random
 
-print("This program intakes two numbers and randomly generates a number between them")
+print("This program accepts two numbers given by the user and randomly produces a value within that range.")
 
 low=int(input( "LOWER NUMBER IN YOUR RANGE:" ))
 high=int(input( "HIGHER NUMBER IN YOUR RANGE:" ))
